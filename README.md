@@ -19,12 +19,22 @@ Feed forward loop (FFL) motif is one of the most significant one in both E. coli
  </p>
   
 
-  
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/aliseif321/FFL_____Wang-Buzsaki_Runge-Kutta/main/Pictures/Wang-Buzsaki_Runge-Kutta_FFL.png">
-</p>
 
 ## Wang-Buzsaki
 The Wang-Buzsaki model uses the Hodgkin-Huxley formalism to describe a single-compartment neuron with sodium and potassium conductances. For the transient sodium current, the activation variable m is assumed fast and substituted by its steady-state function.
 
 Wang XJ, Buzsáki G (1996) Gamma oscillation by synaptic inhibition in a hippocampal interneuronal network model. J. Neurosci. 16: 6402–6413.
+
+## Runge-Kutta
+Runge-Kutta 4th Order Method to Solve Differential Equation Runge Kutta method is used for solving ordinary differential equations (ODE). It uses dy/dx function for x and y, and also need the initial value of y, i.e. y(0). It finds the approximate value of y for given x. For solving ODE, we have to follow these formulas:
+
+  
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/74e4b9bcdb9ba1f9b21e1f9a013859e8b52ae73625faeae8a569f5b0f30313a3/68747470733a2f2f7777772e7475746f7269616c73706f696e742e636f6d2f6173736574732f7175657374696f6e732f6d656469612f393935302f72756e675f6b757474612e6a7067">
+</p>
+
+
+  
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/aliseif321/FFL_____Wang-Buzsaki_Runge-Kutta/main/Pictures/Wang-Buzsaki_Runge-Kutta_FFL.png">
+</p>
