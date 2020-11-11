@@ -33,8 +33,12 @@ Runge-Kutta 4th Order Method to Solve Differential Equation Runge Kutta method i
   <img src="https://camo.githubusercontent.com/74e4b9bcdb9ba1f9b21e1f9a013859e8b52ae73625faeae8a569f5b0f30313a3/68747470733a2f2f7777772e7475746f7269616c73706f696e742e636f6d2f6173736574732f7175657374696f6e732f6d656469612f393935302f72756e675f6b757474612e6a7067">
 </p>
 
+Here h is the height of the interval.
 
-  
+
+
+##  Our results
+Our results for Wang-Buzsaki model with Runge-Kutta 4th Order Method for three inhibitory neurons for connect to the FFL
   <p align="center">
   <img src="https://raw.githubusercontent.com/aliseif321/FFL_____Wang-Buzsaki_Runge-Kutta/main/Pictures/Wang-Buzsaki_Runge-Kutta_FFL.png">
 </p>
